@@ -16,10 +16,15 @@ Initial Setup:
 5. Put your input files into the input folder
 6. Go into command line/terminal
 7. Navigate to your directory's location using the cd command. For example:
+   
   cd /Users/.../Apollo_Trackmaker/input
-8. activate your code by entering the following into command line
+  
+9. activate your code by entering the following into command line
+   
   chmod +x gff2_to_gff3.py
-9. Run your code by entering the following into command line:
+  
+11. Run your code by entering the following into command line:
+    
   ./gff2_to_gff3.py
 
 A succesful run with the sample input file will print the following:
