@@ -2,11 +2,11 @@
 This repository converts GFF files from the GEP Gene Model Checker into a format that can be uploaded to Apollo
 
 Contents:
-Input folder - Put all files you wish to convert here
-Output folder - Find all of your converted files here
-gff2_to_gff3.py - Use this python script to convert your files
-DeleRefSeq2_sgg.gff = sample input file
-DeleRefSeq2_sgg.gff3 = sample output file
+1. Input folder - Put all files you wish to convert here
+2. Output folder - Find all of your converted files here
+3. gff2_to_gff3.py - Use this python script to convert your files
+4. DeleRefSeq2_sgg.gff = sample input file
+5. DeleRefSeq2_sgg.gff3 = sample output file
 
 Initial Setup:
 1. Make sure you have python installed on your computer
