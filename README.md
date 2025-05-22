@@ -10,8 +10,8 @@ Contents:
 
 Initial Setup:
 1. Make sure you have python installed on your computer
-2. Change lines 9 and 22 to reflect the input filepath on your local drive
-3. Change lines 11 and 23 to reflect the output file path on your local drive
+2. Change lines 9 and 22 of gff2_to_gff3.py to reflect the input filepath on your local drive
+3. Change lines 11 and 23 of gff2_to_gff3.py to reflect the output file path on your local drive
 4. Save your changes
 5. Put your input files into the input folder
 6. Go into command line/terminal
