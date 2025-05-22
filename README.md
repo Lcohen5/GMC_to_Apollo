@@ -23,5 +23,7 @@ Initial Setup:
   ./gff2_to_gff3.py
 
 A succesful run with the sample input file will print the following:
+
 Converting DeleRefSeq2_sgg.gff → DeleRefSeq2_sgg.gff3
+
 🧬🪰 Congratulations! Your GFF file from the GEP Gene Model Checker has been converted. You can find the Apollo-ready file in your output foler. 🪰🧬
