@@ -1,0 +1,22 @@
+##gff-version 3
+##sequence-region NW_024545513 4720727 4762202
+NW_024545513	.	mRNA	4720727	4762202	.	-	.	ID=DeleRefSeq2_sgg-PA;transcript_id=DeleRefSeq2_sgg-PA
+NW_024545513	GEP	CDS	4762119	4762202	.	-	0	Parent=DeleRefSeq2_sgg-PA;gene_id=DeleRefSeq2_sgg;transcript_id=DeleRefSeq2_sgg-PA
+NW_024545513	GEP	CDS	4729019	4729207	.	-	0	Parent=DeleRefSeq2_sgg-PA;gene_id=DeleRefSeq2_sgg;transcript_id=DeleRefSeq2_sgg-PA
+NW_024545513	GEP	CDS	4728865	4728948	.	-	0	Parent=DeleRefSeq2_sgg-PA;gene_id=DeleRefSeq2_sgg;transcript_id=DeleRefSeq2_sgg-PA
+NW_024545513	GEP	CDS	4727726	4727836	.	-	0	Parent=DeleRefSeq2_sgg-PA;gene_id=DeleRefSeq2_sgg;transcript_id=DeleRefSeq2_sgg-PA
+NW_024545513	GEP	CDS	4727269	4727505	.	-	0	Parent=DeleRefSeq2_sgg-PA;gene_id=DeleRefSeq2_sgg;transcript_id=DeleRefSeq2_sgg-PA
+NW_024545513	GEP	CDS	4727006	4727197	.	-	0	Parent=DeleRefSeq2_sgg-PA;gene_id=DeleRefSeq2_sgg;transcript_id=DeleRefSeq2_sgg-PA
+NW_024545513	GEP	CDS	4725757	4725945	.	-	0	Parent=DeleRefSeq2_sgg-PA;gene_id=DeleRefSeq2_sgg;transcript_id=DeleRefSeq2_sgg-PA
+NW_024545513	GEP	CDS	4724836	4725285	.	-	0	Parent=DeleRefSeq2_sgg-PA;gene_id=DeleRefSeq2_sgg;transcript_id=DeleRefSeq2_sgg-PA
+NW_024545513	GEP	CDS	4720730	4720921	.	-	0	Parent=DeleRefSeq2_sgg-PA;gene_id=DeleRefSeq2_sgg;transcript_id=DeleRefSeq2_sgg-PA
+NW_024545513	GEP	exon	4762119	4762202	.	-	.	Parent=DeleRefSeq2_sgg-PA;gene_id=DeleRefSeq2_sgg;transcript_id=DeleRefSeq2_sgg-PA
+NW_024545513	GEP	exon	4729019	4729207	.	-	.	Parent=DeleRefSeq2_sgg-PA;gene_id=DeleRefSeq2_sgg;transcript_id=DeleRefSeq2_sgg-PA
+NW_024545513	GEP	exon	4728865	4728948	.	-	.	Parent=DeleRefSeq2_sgg-PA;gene_id=DeleRefSeq2_sgg;transcript_id=DeleRefSeq2_sgg-PA
+NW_024545513	GEP	exon	4727726	4727836	.	-	.	Parent=DeleRefSeq2_sgg-PA;gene_id=DeleRefSeq2_sgg;transcript_id=DeleRefSeq2_sgg-PA
+NW_024545513	GEP	exon	4727269	4727505	.	-	.	Parent=DeleRefSeq2_sgg-PA;gene_id=DeleRefSeq2_sgg;transcript_id=DeleRefSeq2_sgg-PA
+NW_024545513	GEP	exon	4727006	4727197	.	-	.	Parent=DeleRefSeq2_sgg-PA;gene_id=DeleRefSeq2_sgg;transcript_id=DeleRefSeq2_sgg-PA
+NW_024545513	GEP	exon	4725757	4725945	.	-	.	Parent=DeleRefSeq2_sgg-PA;gene_id=DeleRefSeq2_sgg;transcript_id=DeleRefSeq2_sgg-PA
+NW_024545513	GEP	exon	4724836	4725285	.	-	.	Parent=DeleRefSeq2_sgg-PA;gene_id=DeleRefSeq2_sgg;transcript_id=DeleRefSeq2_sgg-PA
+NW_024545513	GEP	exon	4720730	4720921	.	-	.	Parent=DeleRefSeq2_sgg-PA;gene_id=DeleRefSeq2_sgg;transcript_id=DeleRefSeq2_sgg-PA
+###
